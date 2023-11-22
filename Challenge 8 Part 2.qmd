@@ -1,0 +1,9 @@
+---
+title: "Challenge 8 Practice 2"
+format: html
+editor: visual
+---
+
+## Challenge 8 Practice
+
+What did you eat for today\'s lunch? Thai Red Curry Noodles
