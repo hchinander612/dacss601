@@ -1,0 +1,20 @@
+---
+title: "Challenge 8"
+author: "Haley Chinander"
+format: html
+editor: visual
+---
+
+## Question:
+
+What was the last movie you watched in theaters: Hunger Games: Ballad of Songbirds and Snakes
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
