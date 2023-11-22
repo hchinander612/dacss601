@@ -9,6 +9,8 @@ editor: visual
 
 What was the last movie you watched in theaters: Hunger Games: Ballad of Songbirds and Snakes
 
+What did you eat for today\'s lunch? Thai Red Curry Noodles
+
 ```{r}
 
 ```
